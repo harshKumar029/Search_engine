@@ -8,3 +8,14 @@ Search-Engine is a simple search engine project where user can search  for any t
 
 - Search for any type of content.
 - Get Filtered top SEO search results .
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/Search-Engine.git
+2. Install dependencies
+
+cd Search-Engine
+
+npm install
