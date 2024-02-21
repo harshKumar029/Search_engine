@@ -13,7 +13,7 @@ Search-Engine is a simple search engine project where user can search  for any t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Search-Engine.git
+   git clone https://github.com/harshKumar029/Search_engine.git
 2. Install dependencies
 
 cd Search-Engine
