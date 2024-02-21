@@ -34,9 +34,9 @@ export const search = async (query, country, language, numResults, startIndex) =
   }
 };
 
-export const imagesearch = async () => {
+export const imagesearch = async (query) => {
     try {
-      const response = await axios.get(imagesearch_API_URL);
+      const response = await axios.get(imagesearch_API_URL,options(query) );
       return response.data;
     } catch (error) {
       throw error;
